@@ -71,4 +71,4 @@ Displays the most important performance indicators:
 
 Screenshots / Demos
 Show what the dashboard looks like.<br>
-Example: ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/rakesh-insights/Hospital-Emergency-Room-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/rakesh-insights/Hospital-Emergency-Room-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
