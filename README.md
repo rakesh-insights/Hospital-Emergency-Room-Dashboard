@@ -28,13 +28,13 @@ Hospital emergency departments handle a large number of patients daily, making i
 
 Hospital administrators need quick answers to questions such as:
 
- How many patients visited the ER ?<br>
- What is the average patient waiting time ?<br>
- How satisfied are patients with the service ?<br>
- How many patients were admitted or discharged ?<br>
- Which departments receive the most referrals ?<br>
- Which age groups visit the ER most frequently ?<br>
- During which hours and days is the ER busiest ?<br>
+- How many patients visited the ER?
+- What is the average patient waiting time?
+- How satisfied are patients with the service?
+- How many patients were admitted or discharged?
+- Which departments receive the most referrals?
+- Which age groups visit the ER most frequently?
+- During which hours and days is the ER busiest?
 
 Without an interactive dashboard, identifying these insights is time-consuming and inefficient.
 
@@ -42,12 +42,12 @@ Without an interactive dashboard, identifying these insights is time-consuming a
 
 The dashboard aims to:
 
- Monitor emergency room performance through interactive KPIs.
- Track patient admissions and referrals.<br>
- Analyze patient demographics and visit patterns.<br>
- Measure service quality using waiting time and satisfaction metrics.<br>
- Identify peak operating hours for better staff planning.<br>
- Support hospital management with data-driven decision-making.<br>
+- Monitor emergency room performance in real time.
+- Track patient admissions and referrals.
+- Analyze patient demographics.
+- Identify peak visiting hours.
+- Measure hospital service quality using waiting time and patient satisfaction scores.
+- Support data-driven decision-making for hospital management.
 
 📊 Walkthrough of Key Visuals
 
@@ -55,20 +55,20 @@ The dashboard aims to:
 
 Displays the most important performance indicators:
 
- Total Number of Patients<br>
- Average Waiting Time<br>
- Patient Satisfaction Score<br>
- Total Patients Referred<br>
+- Total Number of Patients
+- Average Waiting Time
+- Patient Satisfaction Score
+- Total Patients Referred
 
 📈 Business Impact & Insights
 
- Improved visibility into emergency room operations.<br>
- Identified peak patient traffic hours for optimized staff scheduling.<br>
- Monitored patient waiting times to improve service quality.<br>
- Analyzed admission and referral trends for resource planning.<br>
- Evaluated patient satisfaction to enhance healthcare delivery.<br>
- Enabled data-driven decision-making through interactive reporting.<br>
+- Improved visibility into emergency room operations.
+- Identified peak patient traffic hours for optimized staff scheduling.
+- Monitored patient waiting times to improve service quality.
+- Analyzed admission and referral trends for resource planning.
+- Evaluated patient satisfaction to enhance healthcare delivery.
+- Enabled data-driven decision-making through interactive reporting.
 
-Screenshots / Demos
+🖼️ Screenshots / Demos
 Show what the dashboard looks like.<br>
 Example: ![Dashboard Preview](https://github.com/rakesh-insights/Hospital-Emergency-Room-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
