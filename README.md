@@ -28,13 +28,13 @@ Hospital emergency departments handle a large number of patients daily, making i
 
 Hospital administrators need quick answers to questions such as:
 
-- How many patients visited the ER?
-- What is the average patient waiting time?
-- How satisfied are patients with the service?
-- How many patients were admitted or discharged?
-- Which departments receive the most referrals?
-- Which age groups visit the ER most frequently?
-- During which hours and days is the ER busiest?
+- How many patients visited the ER ?
+- What is the average patient waiting time ?
+- How satisfied are patients with the service ?
+- How many patients were admitted or discharged ?
+- Which departments receive the most referrals ?
+- Which age groups visit the ER most frequently ?
+- During which hours and days is the ER busiest ?
 
 Without an interactive dashboard, identifying these insights is time-consuming and inefficient.
 
